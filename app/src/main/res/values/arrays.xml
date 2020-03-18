@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="taskTitles">
+        <item>晨跑锻炼</item>
+        <item>了解法律</item>
+        <item>学习诗词</item>
+        <item>了解历史</item>
+        <item>阅读新闻</item>
+    </string-array>
+
+    <string-array name="taskDescriptions">
+        <item>通过晨跑，可以愉悦身心，增强体质，改善精神状态。\n签到时间：4:00-7:59</item>
+        <item>了解法律知识，完善自身法律知识结构，提高维权意识。\n至少2分钟。</item>
+        <item>学习古诗词，培养想象力与创造性思维，提高自身修养。\n至少2分钟。</item>
+        <item>了解中国历史，提升自身修养。历史故事中有很多道理值得我们学习。\n至少5分钟。</item>
+        <item>通过阅读新闻，积累知识，开阔眼界，提升内涵。\n至少5分钟。</item>
+    </string-array>
+
+    <string-array name="taskWebUrl">
+        <item>http://wap.moe.gov.cn/jyb_sjzl/sjzl_zcfg/moe_418/</item>
+        <item>http://m.bsdhl.com/</item>
+        <item>http://l.zhuixue.net/</item>
+        <item>http://news.cctv.com/mobile/index.shtml</item>
+        <item>https://www.baidu.com/</item>
+    </string-array>
+
+
+    <string-array name="poemWords">
+        <item>“天生我材必有用，千金散尽还复来。”</item>
+        <item>“人生得意须尽欢，莫使金樽空对月。”</item>
+        <item>“长风破浪会有时，直挂云帆济沧海。”</item>
+        <item>“欲渡黄河冰塞川，将登太行雪满山。”</item>
+        <item>“飞流直下三千尺，疑是银河落九天。”</item>
+        <item>“红藕香残玉簟秋。轻解罗裳，独上兰舟。”</item>
+        <item>“东篱把酒黄昏后，有暗香盈袖。”</item>
+        <item>“明月几时有？把酒问青天。不知天上宫阙，今夕是何年。”</item>
+        <item>“水光潋滟晴方好，山色空蒙雨亦奇。”</item>
+        <item>“笑渐不闻声渐悄，多情却被无情恼。”</item>
+        <item>“一年好景君须记，最是橙黄橘绿时。”</item>
+        <item>“楚天千里清秋，水随天去秋无际。”</item>
+        <item>“关关雎鸠，在河之洲。窈窕淑女，君子好逑。”</item>
+        <item>“蒹葭苍苍，白露为霜。所谓伊人，在水一方。”</item>
+        <item>“青青子衿，悠悠我心。但为君故，沉吟至今。”</item>
+    </string-array>
+
+    <string-array name="poemUrl">
+        <item>http://m.bsdhl.com/shi/5.html</item>
+        <item>http://m.bsdhl.com/shi/5.html</item>
+        <item>http://m.bsdhl.com/shi/5.html</item>
+        <item>http://m.bsdhl.com/shi/5.html</item>
+        <item>http://m.bsdhl.com/shi/60959.html</item>
+        <item>http://m.bsdhl.com/shi/49617.html</item>
+        <item>http://m.bsdhl.com/shi/49633.html</item>
+        <item>http://m.bsdhl.com/shi/1208.html</item>
+        <item>http://m.bsdhl.com/shi/60751.html</item>
+        <item>http://m.bsdhl.com/shi/47771.html</item>
+        <item>http://m.bsdhl.com/shi/60753.html</item>
+        <item>http://m.bsdhl.com/shi/52410.html</item>
+        <item>http://m.bsdhl.com/shi/4670.html</item>
+        <item>http://m.bsdhl.com/shi/4729.html</item>
+        <item>http://m.bsdhl.com/shi/4887.html</item>
+    </string-array>
+
+
+    <string-array name="lawWords">
+        <item>在我国，实施义务教育，不收学费、杂费。</item>
+        <item>国家机关工作人员和教科书审查人员，不得参与或者变相参与教科书的编写工作。</item>
+        <item>你了解我国的高等教育基本制度吗？</item>
+        <item>高等学校学生的合法权益是受法律保护的。</item>
+        <item>在我国，学位分学士、硕士、博士三级。</item>
+        <item>本科毕业生达到什么样的学术水平可以授予学士学位呢？[第四条]</item>
+        <item>在我国，禁止任何单位或者个人为不满16周岁的未成年人介绍就业。</item>
+        <item>未成年人保护法中的未成年人是指未满十八周岁的公民。</item>
+    </string-array>
+
+    <string-array name="lawUrl">
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_619/201001/t20100129_15687.html</item>
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_619/201001/t20100129_15687.html</item>
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_619/201512/t20151228_226196.html</item>
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_619/201512/t20151228_226196.html</item>
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_619/tnull_1315.html</item>
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_619/tnull_1315.html</item>
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_620/tnull_1612.html</item>
+        <item>http://wap.moe.gov.cn/s78/A02/zfs__left/s5911/moe_622/201001/t20100129_3166.html</item>
+    </string-array>
+</resources>

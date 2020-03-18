@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">养成计划</string>
+
+    <string name="bgm_0">Foxtail-Grass Studio - 歳月-雲流れ-</string>
+    <string name="bgm_1">折戸伸治 - 東風</string>
+    <string name="bgm_2">上松範康 - スカーレット</string>
+
+    <string name="attribute1">体能</string>
+    <string name="attribute2">维权意识</string>
+    <string name="attribute3">智慧</string>
+    <string name="attribute4">内涵</string>
+    <string name="attribute5">眼界</string>
+    <string name="default_name">小莉</string>
+    <string name="exit_game">再按一次退出游戏</string>
+
+
+    <array name="taskName">
+        <item>研究历史</item>
+        <item>晨跑锻炼</item>
+        <item>学习数学</item>
+        <item>就玩一会</item>
+        <item>做完作业</item>
+        <item>预习/复习</item>
+    </array>
+
+</resources>

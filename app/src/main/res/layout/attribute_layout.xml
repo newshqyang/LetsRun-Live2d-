@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200sp"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    android:padding="10sp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="100sp"
+            android:layout_height="15sp"
+            android:layout_marginBottom="5sp">
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/default_name"
+                android:textSize="12sp"
+                android:gravity="center"
+                android:textColor="@color/White"/>
+            <TextView
+                android:id="@+id/level"
+                android:textColor="@color/White"
+                android:background="@drawable/bg_level"
+                android:layout_width="wrap_content"
+                android:padding="2dp"
+                android:layout_alignParentRight="true"
+                android:gravity="center"
+                android:textSize="7sp"
+                android:layout_height="wrap_content"
+                android:text="一般"/>
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="100sp"
+            android:layout_height="wrap_content"
+            android:gravity="left|center">
+
+            <TextView
+                android:layout_width="20sp"
+                android:layout_height="wrap_content"
+                android:text="Task"
+                android:textColor="@color/White"
+                android:gravity="left|center"
+                android:textSize="8sp"
+                android:layout_marginRight="5sp"/>
+            <ProgressBar
+                android:id="@+id/sb_hp"
+                android:layout_width="match_parent"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_height="7sp"
+                android:progressDrawable="@drawable/sbbg_hp"
+                android:max="5"
+                android:padding="0sp"
+                android:layout_alignParentRight="true"
+                android:thumb="@null" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/button_medal"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10sp"
+        android:background="@android:color/transparent"
+        android:paddingStart="10sp"
+        android:paddingEnd="10sp"
+        android:scaleType="fitCenter"
+        android:paddingBottom="20sp"
+        android:src="@drawable/medal_icon_not_get" />
+</LinearLayout>

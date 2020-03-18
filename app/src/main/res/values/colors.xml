@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Orange">#F7E276</color>
+    <color name="ColorBackground">#A8F5F1F1</color>
+    <color name="FontColor">#5E5E5E</color>
+    <color name="White">#ffff</color>
+    <color name="ColorClick">#D3D1D1</color>
+    <color name="ColorTask">#0E9B97</color>
+    <color name="Green">#70B478</color>
+    <color name="Red">#E62626</color>
+    <color name="Blue">#3885C0</color>
+    <color name="Yellow">#F5E371</color>
+
+    <color name="ViewGreen">#A805B452</color>
+    <color name="ViewGreenBorder">#079B27</color>
+    <color name="Grey">#9D9A9B</color>
+    <color name="ViewFillAndStrokeInner">#A8BEBDBD</color>
+    <color name="ViewFillAndStroke">#A8EEECEC</color>
+    <color name="ViewBackground">#FFFFFF</color>
+</resources>
